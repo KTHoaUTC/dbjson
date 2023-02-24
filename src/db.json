@@ -45,7 +45,7 @@
   ],
   "products": [
     {
-      "name": "Pro 1 update saafdfdsfdsfdfdfdsf",
+      "name": "Peppo restaurant",
       "price": 4340000,
       "desc": "Áo đẹp không, áo này đẹp thế 3k",
       "categoryId": "1",
@@ -54,7 +54,7 @@
       "id": 1
     },
     {
-      "name": "Pro 2 fdfdfdsfdsfdsfdsfdsfdsfdsfdsfds",
+      "name": "Japan Ishushi hon... ",
       "price": 20000,
       "desc": "Áo đẹp không, áo này đẹp thế",
       "categoryId": "2",
@@ -63,7 +63,7 @@
       "id": 2
     },
     {
-      "name": "Pro 3",
+      "name": "Hanpo restaurant",
       "price": 20000,
       "desc": "Áo đẹp không, áo này đẹp thế",
       "categoryId": "3",
